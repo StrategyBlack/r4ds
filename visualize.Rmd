@@ -24,7 +24,7 @@ This chapter will teach you how to visualize your data with R and the `ggplot2` 
 
 ### Outline
 
-*Section 1* will get you started making graphs right away. You'll learn how to use the grammar of graphics to make any type of plot.
+*Section 1* will get you started making graphs the right away. You'll learn how to use the grammar of graphics to make any type of plot.
 
 *Section 2* will show you how to prepare your plots for communication. You'll learn how to make your plots more legible with titles, labels, zooming, and default visual themes. 
 
